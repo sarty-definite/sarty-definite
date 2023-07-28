@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-<!--
+I'm Sarthak. I am a Python Automation Developer. I create projects for learning and fun. 
+
+See you around.
+<!--  
 **sarty-definite/sarty-definite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
